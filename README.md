@@ -32,7 +32,7 @@
 
 | ![Pramodi's github stats](https://github-readme-stats.vercel.app/api?username=PramodiPeshila&show_icons=true&theme=tokyonight) | 
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodiPeshila&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=PramodiPeshilashow_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodiPeshila&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=PramodiPeshila&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
